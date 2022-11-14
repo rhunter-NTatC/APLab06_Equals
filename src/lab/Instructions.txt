@@ -8,7 +8,9 @@ You will be creating 4 classes.
   
 The 3 classes
   These will be blueprints for whatever object
-  you want.  At a minimum the must have the following.
+  you want.  
+  This MUST be different than any object found in the notes.
+  At a minimum they must have the following.
   
   - 3 parameters
   - 1 constructor
