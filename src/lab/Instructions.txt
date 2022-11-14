@@ -1,0 +1,43 @@
+
+
+Lab: Overriding Equals and toString
+
+You will be creating 4 classes.
+  - 3 classes will be blueprints objects of your choosing.
+  - 1 will be a runner
+  
+The 3 classes
+  These will be blueprints for whatever object
+  you want.  At a minimum the must have the following.
+  
+  - 3 parameters
+  - 1 constructor
+  - getter and setter methods for all parameters
+  - override toString()
+  - override equals()
+  
+  You may use whatever criteria you like to determine
+  if two instances are equal.  But it should be reasonable.
+  
+
+The Runner
+  This will illustrate if your equals() work as intended.
+  It should have the following.
+  
+  - 4 separate instances of each class
+  	at least 2 should have the same parameters
+  	at least 1 should have different parameters
+  - 3 tests for each set of instances
+  	at least 1 should properly indicate the instances are equal
+  	at least 1 should properly indicate the instances are not equal
+  	
+  	In total, this comes to:
+  	12 instances (minimum)
+  	9 tests (minimum)
+  	
+   
+
+
+
+
+
